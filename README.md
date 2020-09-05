@@ -1,5 +1,4 @@
-# Proyecto 
-#Bienvenida
+ #Bienvenida
 print("Bienvenidos a la taqueria virtual de Robin")
 #Opciones de menú
 print("Presione el número 1 si quiere ver el menu de refrescos")
